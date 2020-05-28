@@ -5,8 +5,5 @@ insert
 ssssss
 111111
 222222
-<<<<<<< HEAD
 eeeee
-=======
 qqqqqq
->>>>>>> test
